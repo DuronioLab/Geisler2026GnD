@@ -1,5 +1,5 @@
-# Geisler2026
-All code associated with the Geisler 2026 publication "Differential control of both cell cycle-regulated and quantitative histone mRNA expression by Drosophila Mute"
+# Geisler2026GnD
+All code associated with the Geisler, et al. 2026 Genes & Development publication "Differential control of both cell cycle-regulated and quantitative histone mRNA expression by Drosophila Mute" 
 
 normalize_chrHis_by100.py 
 - This script reads a bigWig file and divides ALL signal on chrHis by 100 to account for the collapsed histone gene array (~100 copies). All other chromosomes remain unchanged.

@@ -33,3 +33,4 @@ volcano_plot_CNRvsRNAseq.R
 - Dependencies: R
 
 Raw data available on NCBI GEO: GSE324623 (Cut&Run), GSE324624 (RNA-seq) upon publication
+The custom dm6-chrHis genome is available on Zenodo at https://doi.org/10.5281/zenodo.18986265
